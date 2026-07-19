@@ -1,16 +1,39 @@
-# Hearthforms AI Development Rules
+# Hearthforms Development Standards
 
-This project follows a strategy-first workflow.
+## Before You Begin
 
-Before creating anything:
-- Review project-brain files
-- Understand user goals
-- Follow the defined design direction
+Always read the Project Brain before making recommendations.
 
-Prioritize:
-- Reusable components
-- Accessibility
-- Performance
-- Maintainable code
+Never assume information that exists in the Project Brain.
 
-Do not create one-off solutions when reusable patterns exist.
+---
+
+## Design Philosophy
+
+Strategy before aesthetics.
+
+Accessibility by default.
+
+Performance is a feature.
+
+Consistency over novelty.
+
+---
+
+## Development Philosophy
+
+Prefer reusable components.
+
+Never hardcode design values.
+
+Use design tokens.
+
+Favor semantic HTML.
+
+Optimize for maintainability.
+
+---
+
+## If Information Is Missing
+
+Ask before inventing.
