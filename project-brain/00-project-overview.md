@@ -36,3 +36,19 @@ A first-time visitor should understand:
 - Why it matters
 - How to get involved
 - Why they can be trusted
+
+## Design Inputs
+
+This project is informed by three sources:
+
+1. Project Brain
+2. Existing Website
+3. Design Research
+
+The Project Brain is the source of truth.
+
+The existing website provides business and content context.
+
+The Design Research folder provides visual inspiration and interaction patterns.
+
+Together they define the direction for the redesign.

@@ -1,135 +1,90 @@
-# Design Research Notes
+# Homepage Design Research Notes
 
 ---
 
 ## Example
 
-**Name:**  
-Care Hands Template
+**Name:** Care Hands Homepage
 
-**URL:**  
-https://care-hands.webflow.io/
+**URL:** https://care-hands.webflow.io/
 
-**Screenshot:**  
-care-hands-hero.png
+**Screenshot:** screencapture-care-hands-webflow-io-2026-07-21-17_58_33.png
 
-**Category:**  
-Hero
+### Problem Solved
 
-### Why I Saved It
+Creates an immediate emotional connection while clearly guiding visitors through the organization's mission, impact, and opportunities to get involved.
 
-The hero section immediately communicates the organization's purpose through a strong visual and clear messaging hierarchy. Within seconds, visitors understand the organization's mission, who they serve, and what action they can take.
+### Design Patterns to Keep
 
-### What Problem Does It Solve?
+- Strong homepage architecture that naturally tells the organization's story.
+- Clear calls-to-action placed throughout the page, making it obvious how visitors can get involved.
+- Authentic photography reinforces the mission and builds trust.
+- Subtle accent colors create personality without overwhelming the design.
+- Sections transition naturally from one topic to the next, creating an enjoyable reading experience.
 
-Solves the common nonprofit website challenge of unclear messaging by answering the essential questions:
+### Apply to Magnified Voices
 
-- Who are you?
-- What do you do?
-- Who do you help?
-
-It creates emotional connection before asking visitors to take action.
-
-### What I Like
-
-- Large, impactful community-focused imagery
-- Strong headline that communicates the mission quickly
-- Clear CTA hierarchy
-- Authentic emotional tone
-- Generous spacing that improves readability
-- Strong visual hierarchy
-
-### Ideas for Magnified Voices
-
-- Use one powerful community image rather than multiple competing visuals
-- Keep the hero message concise and mission-focused
-- Create a clear primary CTA ("Join the Mission")
-- Use secondary actions (Volunteer, Donate, Partner) without competing with the main goal
+- Build the homepage as a story rather than a collection of sections.
+- Use authentic community photography throughout the page.
+- Reinforce the primary CTA multiple times as visitors scroll.
+- Introduce subtle brand accent colors to add warmth while maintaining a clean, professional appearance.
 
 ---
 
 ## Example
 
-**Name:**  
-Goodwill Webflow Template
+**Name:** Goodwill Homepage
 
-**URL:**  
-https://goodwill-template.webflow.io/
+**URL:** https://goodwill-template.webflow.io/
 
-**Screenshot:**  
-goodwill-hero.png
+**Screenshot:** screencapture-goodwill-template-webflow-io-2026-07-21-17_59_18.png
 
-**Category:**  
-Hero
+### Problem Solved
 
-### Why I Saved It
+Creates a trustworthy and approachable experience by organizing information into clear, digestible sections that are easy to scan.
 
-This hero does a good job establishing trust immediately by combining a clear mission statement with accessible contact options. Visitors can quickly understand the organization and find ways to connect.
+### Design Patterns to Keep
 
-### What Problem Does It Solve?
+- Modern section layouts with generous spacing.
+- Clear visual hierarchy between headlines, supporting copy, and calls-to-action.
+- Reusable content blocks that keep the page visually consistent.
+- Consistent styling throughout the homepage.
+- Clean presentation that feels trustworthy and professional.
 
-Builds credibility and reduces friction by making important information available immediately.
+### Apply to Magnified Voices
 
-The design communicates:
+- Keep section layouts simple and consistent across the homepage.
+- Use whitespace to improve readability and separate content.
+- Repeat familiar component styles to create a cohesive experience.
+- Focus on clarity over visual complexity.
 
-- Who the organization is
-- What they do
-- How visitors can engage
-
-### What I Like
-
-- Large, emotional background imagery
-- Clear messaging hierarchy
-- Strong CTA placement
-- Easy access to contact information
-- Trust-building above the fold
-
-### Ideas for Magnified Voices
-
-- Consider including quick-access contact information
-- Maintain a visible Donate CTA without making it the only action
-- Prioritize "Join the Mission" as the main conversion path
-- Make engagement options easy to find from the first interaction
-
-
+---
 
 ## Example
 
-**Name:**  
-Equalize Webflow Template
+**Name:** Givara Homepage
 
-**URL:**  
-https://equalize.webflow.io/
+**URL:** https://givara-foundation.webflow.io/#home-events
 
-**Screenshot:**  
-equalize-hero-Img
+**Screenshot:** screencapture-givara-foundation-webflow-io-2026-07-21-18_02_38.png
 
-**Category:**  
-Hero
+### Problem Solved
 
-### Why I Saved It
+Presents the organization's mission in a visually engaging way by combining bold typography, generous whitespace, and meaningful imagery to guide visitors through the story.
 
-This hero has nice visual hiearchy. It visually pleasing to the eye and it has icons that represent the missions (flags,heart,cloud sunshine, lightbulb)
+### Design Patterns to Keep
 
-### What Problem Does It Solve?
+- Large editorial typography creates a confident first impression.
+- Generous whitespace gives each section room to breathe.
+- Strong photography supports the messaging rather than competing with it.
+- Unique section layouts keep the page engaging while maintaining consistency.
+- Balanced use of imagery and content creates a premium feel.
 
-This hero makes me think this is a brand that is about the people. 
+### Apply to Magnified Voices
 
-The design communicates:
+- Use bold typography to establish a strong visual hierarchy.
+- Give each section enough whitespace to improve readability.
+- Let photography help tell the organization's story.
+- Introduce a few unique section layouts while maintaining an overall consistent design system.
 
-- Who the organization is
-- What they do
-- How visitors can engage
-
-### What I Like
-
-- icons that represnt the brand 
-- Clear messaging hierarchy
-- Strong CTA placement
-- Easy access to contact information
-- Trust-building above the fold
-
-### Ideas for Magnified Voices
-
-- Maintain a visible Donate CTA without making it the only action
-- Make interaction with brand colorful
+---

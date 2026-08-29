@@ -1,78 +1,61 @@
-# Impact Section Design Research Notes
+# Hero (Non-Homepage) Design Research Notes
 
 ---
 
 ## Example
 
-**Name:**  
-Charity: Water
+**Name:** Care Hands – Service Page Hero
 
-**URL:**  
-https://care-hands.webflow.io/
+**URL:** https://care-hands.webflow.io/service
 
-**Screenshot:**  
-care-hands-graph-statistics.png
+**Screenshot:** care-hands-non-homepage-img.png
 
-**Category:**  
-Impact / Statistics
+### Problem Solved
 
-### Why I Saved It
+Provides visitors with immediate context about the page while reinforcing the organization's mission through strong visual storytelling.
 
-What caught my attention?
+### Design Patterns to Keep
 
-I thought the graph is something you don't see everyday and it's clear what the stats it's trying to convey. 
+- High-quality photography that directly relates to the page content.
+- Simple page title that is easy to scan.
+- Minimal supporting content keeps the focus on the page's purpose.
+- Generous whitespace creates a clean and approachable layout.
+- Hero establishes visual consistency with the homepage.
 
-Example:
-The section makes the organization's impact feel tangible by combining large statistics with storytelling.
+### Apply to Magnified Voices
 
-### What Problem Does It Solve?
-
-What visitor problem does this address?
-
-This helps build trust with the user viewing the site. 
-
-Example:
-Helps visitors understand the real-world impact of the organization instead of only reading about its mission.
-
-### What I Like
-
-- color
-- visual hiearchy
-- graph 
-
-### Ideas for Magnified Voices
-
-How could this influence our project?
-
-- we could have resuable cards that use the bright colors but in a subtle way cards on the site are nice oclors but they don't communicate fun it communicates care hope and trust. 
-
+- Use authentic photography that represents the specific topic of each page.
+- Keep non-homepage heroes simple with a clear page title and optional supporting sentence.
+- Maintain consistent spacing and typography across all interior pages.
+- Ensure each hero provides immediate context before visitors continue scrolling.
 
 ---
 
 ## Example
 
-**Name:**  
+**Name:** God's Grace – Non-Homepage Hero
 
-**URL:**  
+**URL:** https://godsgrace-template.webflow.io/
 
-**Screenshot:**  
+**Screenshot:** godsgrace-non-homepage-hero.png
 
-**Category:**  
-Impact / Story / Statistics
+### Problem Solved
 
-### Why I Saved It
+Creates an inviting introduction to interior pages while maintaining visual consistency and reinforcing the organization's identity.
 
+### Design Patterns to Keep
 
-### What Problem Does It Solve?
+- Strong photography immediately captures attention.
+- Clear visual hierarchy between the image, page title, and supporting text.
+- Generous whitespace improves readability.
+- Simple layout keeps the focus on the page content.
+- Consistent styling creates a cohesive experience across the website.
 
+### Apply to Magnified Voices
 
-### What I Like
+- Feature meaningful community photography that relates to the page's content.
+- Keep interior page heroes clean and uncluttered.
+- Use consistent spacing, typography, and image treatments across all non-homepage heroes.
+- Allow the page title and imagery to communicate the purpose of the page without unnecessary copy.
 
-- 
-- 
-- 
-
-### Ideas for Magnified Voices
-
-- 
-- 
+---
